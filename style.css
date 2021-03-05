@@ -1,0 +1,81 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(47, 101, 181, 1) 32%,
+    rgba(123, 35, 139, 1) 100%
+  );
+}
+
+.box {
+  width: 500px;
+  min-height: 300px;
+  background: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.separator {
+  height: 10px;
+  width: 100px;
+  background: #5148a2;
+}
+
+#new {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 1.3em;
+
+  cursor: pointer;
+  color: white;
+  margin-top: 10px;
+  width: 500px;
+  height: 60px;
+
+  background: rgb(231, 81, 60);
+  background: linear-gradient(
+    90deg,
+    rgba(231, 81, 60, 1) 0%,
+    rgba(231, 91, 54, 1) 21%,
+    rgba(245, 130, 19, 1) 100%
+  );
+
+  outline: none;
+  border: none;
+  transition: all 0.2s;
+}
+
+#new:active {
+  transform: scale(0.95);
+}
+
+#citation {
+  padding: 20px;
+  font-size: 2.5em;
+  text-align: center;
+  font-family: "Dancing Script", cursive;
+  display: inline-block;
+}
+
+#auteur {
+  padding: 20px;
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-size: 1.5em;
+  letter-spacing: 0.5px;
+}
