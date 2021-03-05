@@ -20,38 +20,6 @@ button.addEventListener("click", () => {
   dernier = nombreAleatoire;
 });
 
-// citations = [
-//   ['"Tu veux t’assoir sur le trône, faudra t’asseoir sur mes genoux"', "Booba"],
-//   ['"On t’aime pour ce que t’as, on te deteste pour ce que t’es"', "Rohff"],
-//   [
-//     '"Faut que tu choisisses tes amis parmi les meilleurs, pas parmi ceux qui ne font qu’embellir tes erreurs"',
-//     "Kery James",
-//   ],
-//   [
-//     '"Pendant des piges j’ai attendu que ma vie change, puis j’ai fini par comprendre que c’était elle qui attendait que je change"',
-//     "Dosseh",
-//   ],
-//   [
-//     '"Pour moi t’étais un chapitre, et pour toi moi j’étais un livre, Je t’ai vu dans les bras de ce mec au RSA, tu priais pour que je te délivre"',
-//     "Alonzo",
-//   ],
-//   ['"J’contrôle le game, un peu comme Nintendo"', "Niska"],
-//   ['"Mon frère si t’as le coeur froid, t’iras bronzer en enfer"', "Lacrim"],
-//   [
-//     '"Crochet d’Eden j’file a l’anglaise, weed holandaise j’suis le meilleur y’a pas de Hazard"',
-//     "Gradur",
-//   ],
-//   [
-//     '"Moi j’suis un All Black, mais c’est le 47 qui fait le A.K"',
-//     "Kalash Criminel",
-//   ],
-//   [
-//     '"Baba, pour ton sourire, j’donnerais ma vie et p’t-être même ma place au paradis"',
-//     "PNL",
-//   ],
-//   ['"Je suis un pacifiste, quiconque me défie repose en paix"', "Damso"],
-//   ['"Un jour tu me donneras ton oui et tu prendras mon nom"', "Nekfeu"],
-// ];
 let citations = [
   [
     "La vie est un mystère qu'il faut vivre, et non un problème à résoudre.",
