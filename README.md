@@ -1,5 +1,7 @@
 # Générateur de citations
 
+![citations](https://github.com/shompoth/Generateur-citations/blob/main/img/screenshot-citations.png)
+
 Ce projet est un générateur de citations. 
 
 ## Crée avec
